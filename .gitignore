@@ -1,0 +1,6 @@
+dms
+*.o
+documents.dat
+.idea/
+.vscode/
+.DS_Store
